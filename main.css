@@ -1,0 +1,139 @@
+
+
+/*Main*/
+
+body{
+  color: #465058;
+  font-size: 1em;
+  font-weight: 200;
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  color: #465058;
+}
+
+a:hover {
+	color: blue;
+}
+
+/*Typography*/
+p {
+  margin-bottom: 40px;
+  	overflow: auto;
+}
+
+img {
+  width: 36px;
+  height: 36px;
+}
+
+#header{
+
+	overflow: auto;
+	
+}
+
+h1, h2 #header{
+  font-weight: 400;
+  width: 100%;
+  color: #465058
+}
+
+h2 #header{
+  font-size: 24px;
+  color: #465058;
+  margin: 10px,0,0;
+ 
+}
+
+/*Nav*/
+#nav-bar {
+	height: 100%;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 25%;
+
+	overflow: auto;
+}
+
+	ul#menu-list li {
+		color: #465058;
+		display: block;
+	}
+	ul#menu-list img{
+		padding-left: 10px;
+		padding-right: 10px;
+		height: 96px;
+		width: 96px;
+		border-radius: 60px;
+	}
+
+#nav {
+	color: #465058;
+	margin: 10px;
+}
+#nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  height: 100%;
+
+  overflow: auto;
+}
+
+#content {
+	 margin-left: auto;
+    margin-right: auto;
+    width: 45em;
+
+	overflow: auto;
+}
+
+#tool-list {
+	height: 84px;
+	background: url(images/bar-bg.jpg) repeat-x;
+		overflow: auto; 
+}
+
+ul#tool-list {
+	min-width: 696px;
+	padding-top: 20px;
+	text-align: none;
+	display: block;
+	}
+	ul#badge-list li {
+		color: #465058;
+		display: inline;
+		
+	}
+	ul#badge-list img{
+		padding-left: 10px;
+		padding-right: 10px;
+		height: 96px;
+		width: 96px;
+	}
+
+#footer {
+  margin: 80px 0;
+  width: 100%;
+  	overflow: auto;
+}
+  
+  
+
+
+
+
+
+
+
+
+
