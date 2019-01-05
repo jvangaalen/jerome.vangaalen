@@ -9,7 +9,9 @@ body{
   font-family: 'Roboto', Helvetica, Arial, serif;
   text-align: center;
   padding-top: 50px;
+  background-color: slategray;
 }
+
 
 a {
   color: black;
@@ -53,7 +55,15 @@ h2 #header{
 }
 
 /*Nav*/
-#nav-bar {
+ #nav-bar{
+     background-color: white;
+ }
+
+ .container{
+     background-color: white;
+
+ }
+/*#nav-bar {
 	height: 100%;
 	list-style: none;
 	margin: 0;
@@ -87,7 +97,7 @@ h2 #header{
   height: 100%;
 
   overflow: auto;
-}
+}*/
 
 #content {
 	 margin-left: auto;
