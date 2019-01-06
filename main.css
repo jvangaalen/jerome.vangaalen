@@ -12,6 +12,11 @@ body{
   background-color: slategray;
 }
 
+.dev-pic{
+    width: 128px;
+    height: 48px;
+}
+
 
 a {
   color: black;
@@ -25,21 +30,21 @@ a:hover {
 }
 
 /*Typography*/
-p {
+/*p {
   margin-bottom: 40px;
   	overflow: auto;
+}*/
+
+#footer img {
+   width: 36px;
+   height: 36px;
 }
 
-img {
+#nav-icons img {
   width: 36px;
   height: 36px;
 }
 
-#header{
-
-	overflow: auto;
-	
-}
 
 h1, h2 #header{
   font-weight: 400;
