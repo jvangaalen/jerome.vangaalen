@@ -2,68 +2,41 @@
 
 body{
   font-family: 'Roboto', Helvetica, Arial, serif;
-  text-align: justify;
-  
+  text-align: justify; 
   background-color: slategray;
-}
-
-#footer img {
-   width: 36px;
-   height: 36px;
 }
 
 #nav-icons img {
   width: 36px;
   height: 36px;
+  padding-bottom: 4px;
 }
 
 /*Nav*/
- #nav-bar{
-     text-align: center;
-     background-color: white;
- }
+#nav-bar {
+    /*background-image:url('../images/Snowboard-banner.png');
+    background-repeat: round;*/ 
+    text-align: center; 
+    background-color: white;
+}
 
 .container {
     background-color: white;
-    padding:4px 7px 2px 4px;
+    /*padding:4px 7px 2px 4px;*/
     
 }
 
-#about-me {
-    height: initial;
-    width: initial;
-    margin: 8px -700px 10px 4px;
+#footer {
+    text-align:center;
+    padding-top: 12px;
+
 }
 
-#testimonials {
-    height:inherit;
-    width:inherit;
-    margin: 8px 7px 10px 850px;
+#footer img {
+    width: 36px;
+    height: 36px;
 }
 
-#projects {
-    height: initial;
-    width: initial;
-    margin: 8px 100px 10px 4px;
-}
-
-#Education {
-    height: inherit;
-    width: inherit;
-    margin: 25px 7px 700px 4px;
-}
-
-#web-dev-tools {
-    height: initial;
-    width: initial;
-    margin: 8px 140px 10px 4px;
-}
-
-#experience {
-    height: inherit;
-    width: inherit;
-    margin: 25px 7px 956px 4px;
-}
 
 
 
